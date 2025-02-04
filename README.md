@@ -1,4 +1,8 @@
 cdThis is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## mongodb String
+
+mongodb://localhost:27017/task-manager
+
 
 ## Getting Started
 
