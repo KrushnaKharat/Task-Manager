@@ -9,6 +9,11 @@ mongodb://localhost:27017/task-manager
 First, run the development server:
 
 ```bash
+npm install -g yarn
+yarn add react-icons
+yarn add @nextui-org/checkbox
+yarn add @nextui-org/divider
+
 npm run dev
 # or
 yarn dev
